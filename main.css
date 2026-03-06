@@ -36,5 +36,6 @@ p{
 }
 
 li{
-  font-weight:bold;
+  font-weight: bold;
+  list-style-type: square;
 }
